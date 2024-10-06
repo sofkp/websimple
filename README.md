@@ -1,2 +1,2 @@
 # websimple
-repositorio para curso Cloud Computing 
+Repositorio para ejercicio del curso Cloud Computing
